@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494234722 source:/home/xry/code/MultiPthread/main.cpp
+	<pthread.h>
+	<stdio.h>
+	<sys/time.h>
+	<string.h>
+	<semaphore.h>
+	<unistd.h>
+
